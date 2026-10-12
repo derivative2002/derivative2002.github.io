@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://derivative2002.github.io/</id>
+  <title type="text">天朗</title>
+  <subtitle type="text">个人站点，内容陆续补充。</subtitle>
+  <updated>2026-10-11T00:00:00.000Z</updated>
+  <author><name>天朗</name></author>
+  <link rel="alternate" href="https://derivative2002.github.io/"/>
+  <link rel="self" href="https://derivative2002.github.io/atom.xml"/>
+  <generator uri="https://github.com/CuteLeaf/Firefly">Firefly v6.16.8</generator>
+    <entry>
+      <id>https://derivative2002.github.io/posts/hello/</id>
+      <title type="text">站点已开通</title>
+      <published>2026-10-11T00:00:00.000Z</published>
+      <updated>2026-10-11T00:00:00.000Z</updated>
+      <author><name>天朗</name></author>
+      <link rel="alternate" href="https://derivative2002.github.io/posts/hello/"/>
+      <summary type="text">站点已开通，内容会陆续补充。</summary>
+      <content type="html"><![CDATA[<p>站点已开通。内容会陆续补充。</p>
+<p>感谢来访。</p>]]></content>
+    </entry>
+</feed>

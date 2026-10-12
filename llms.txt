@@ -1,0 +1,10 @@
+﻿# 天朗
+> 个人站点，内容陆续补充。
+
+## Key Pages
+- [主页](https://derivative2002.github.io/)
+- [归档](https://derivative2002.github.io/archive/)
+- [关于我](https://derivative2002.github.io/about/)
+
+## Recent Posts
+- [站点已开通](https://derivative2002.github.io/posts/hello/): 站点已开通，内容会陆续补充。
