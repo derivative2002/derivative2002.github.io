@@ -7,4 +7,5 @@
 - [关于我](https://derivative2002.github.io/about/)
 
 ## Recent Posts
+- [LLM Arena：一个人的模型评测](https://derivative2002.github.io/posts/llm-arena/): 这是一篇个人评测的记录稿：不是榜单，也不是结论。
 - [站点已开通](https://derivative2002.github.io/posts/hello/): 站点已开通，内容会陆续补充。
